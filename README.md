@@ -17,7 +17,8 @@ I work on renewable energy, smart grids, and energy communities. My research foc
 | --- | --- |
 | Programming and analysis | Python, MATLAB |
 | Power-system modelling | Simulink, PowerFactory, PowerWorld, PSCAD |
-| Solar-energy analysis | PVsyst, PVGIS |
+| Solar-energy analysis | PVsyst, PVGIS, HOMER |
+| Solar-energy project design | AutoCAD, PV*SOL, PVcase |
 
 ## Current research
 
