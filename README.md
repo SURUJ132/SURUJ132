@@ -12,9 +12,9 @@ I work on collective self-consumption, peer-to-peer energy sharing, and decision
 
 At INESC-ID, I contribute to **U2DEMO — Renewable Energy Community & P2P Energy Sharing Platform**. My current work includes:
 
-- Comparing energy-sharing approaches using useful shared energy and demand satisfaction
+- Developing energy-sharing algorithms for fair allocation
 - Assessing social fairness through vulnerability and energy-need indicators
-- Processing 15-minute generation, demand, and community-pool measurements in Python
+- Modeling and simulating renewable energy communities with heterogeneous member profiles
 
 ## Research interests
 
