@@ -1,8 +1,20 @@
 # Md. Suruj Ali
 
-**Researcher (R1) at INESC-ID / Instituto Superior Técnico, University of Lisbon, Portugal**
+**First Stage Researcher (R1) · Renewable energy, smart grids, and energy communities**
 
-I work on renewable energy, smart grids, and energy communities. My research focuses on collective self-consumption, peer-to-peer energy sharing, and decision-support tools for the planning and operation of energy communities.
+INESC-ID / Instituto Superior Técnico (IST), University of Lisbon, Portugal.
+
+[LinkedIn](https://www.linkedin.com/in/md-suruj-ali-7204b3137/) · [ORCID](https://orcid.org/0009-0002-0081-3098) · [INESC-ID](https://www.inesc-id.pt/)
+
+I work on collective self-consumption, peer-to-peer energy sharing, and decision-support tools for the planning and operation of renewable energy communities. My research examines how useful energy allocation and member needs can inform social fairness assessment.
+
+## Current research
+
+At INESC-ID, I contribute to **U2DEMO — Renewable Energy Community & P2P Energy Sharing Platform**. My current work includes:
+
+- Comparing energy-sharing approaches using useful shared energy and demand satisfaction
+- Assessing social fairness through vulnerability and energy-need indicators
+- Processing 15-minute generation, demand, and community-pool measurements in Python
 
 ## Research interests
 
@@ -20,13 +32,8 @@ I work on renewable energy, smart grids, and energy communities. My research foc
 | Solar-energy analysis | PVsyst, PVGIS, HOMER |
 | Solar-energy project design | AutoCAD, PV*SOL, PVcase |
 
-## Current research
-
-I contribute to **U2DEMO — Renewable Energy Community & P2P Energy Sharing Platform** at INESC-ID. My current work examines energy-sharing approaches and social fairness in renewable energy communities.
-
 ## Education
 
 - **M.Sc. in Solar Energy Engineering** — University of Évora, Portugal
 - **B.Sc. in Electrical and Electronic Engineering** — United International University, Bangladesh
 
-**Institution:** [INESC-ID](https://www.inesc-id.pt/)
